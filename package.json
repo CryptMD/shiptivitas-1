@@ -1,3 +1,4 @@
+import Dragula from 'dragula';
 {
   "name": "yc-task1",
   "version": "0.1.0",
